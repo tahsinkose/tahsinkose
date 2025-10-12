@@ -9,14 +9,14 @@ Before Aeolus, I wrote guidance, navigation, and control software for DJI Matric
 These days I'm applying vision-language-action pipelines and large behavior models to a humanoid robot mounted on a mobile base, wiring up logging, visualization, and curation workflows that make large-scale learning iterations feasible. Always happy to compare notes with anyone exploring dependable robotic behavior at scale 🤝.
 
 ## 🏦 Fintech
-- Built HisseVergiBeyan into a detailed tax-reporting assistant for Türkiye-based investors trading on foreign stock exchanges—it's humming along even without active development these days.
+- Built HisseVergiBeyan into a detailed tax-reporting assistant for 🇹🇷 investors trading on foreign stock exchanges—it's humming along even without active development these days.
 - Automating profit and loss breakdowns with verbose explanations of splits, delistings, and TRY inflation adjustments so annual filings stay accurate.
 
 ## 🤖 Robotics
 - Extending manipulation skill coverage across fetch-and-delivery, disinfection, door-manipulation, and elevator missions with custom grippers.
 - Maintaining articulated collision object libraries and telemetry-fed online replanning pipelines for humanoid deployments.
 - Stewarding skill-level benchmarking infrastructure—covering button-push, grab, dispose, and door-slide behaviors—to keep regression detection grounded in real deployments.
-- Contributed upstream improvements to MoveIt, MoveIt Tutorials, and ros_comm.
+- 👐 Contributed upstream improvements to MoveIt, MoveIt Tutorials, and ros_comm.
 
 ## 📬 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/tahsincankose/)
