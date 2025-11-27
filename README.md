@@ -7,7 +7,7 @@ Right now my core emphasis is learning-enabled manipulation with large models �
 Before Aeolus, I wrote guidance, navigation, and control software for DJI Matrice 100 platforms at [MilSOFT](https://www.crunchbase.com/organization/milsoft-software-technologies-inc). I implemented the autonomy stack, spun up a high-fidelity Gazebo simulation and hardware-in-the-loop lab ✈️, and connected embedded controllers with mission software so flight-readiness checks could run overnight across swarms of test vehicles.
 
 ## 🏦 Fintech
-- Built HisseVergiBeyan into a detailed tax-reporting assistant for 🇹🇷 investors trading on foreign stock exchanges—it's humming along even without active development these days.
+- Built [HisseVergiBeyan](https://www.hissevergibeyan.com/) into a detailed tax-reporting assistant for 🇹🇷 investors trading on foreign stock exchanges—it's humming along even without active development these days.
 - Automating profit and loss breakdowns with verbose explanations of splits, delistings, and ₺ inflation adjustments so annual filings stay accurate.
 
 ## 🤖 Robotics
@@ -24,4 +24,4 @@ Check out my open-source work below—especially [hector-moveit](https://github.
 
 ---
 
-These days I'm applying vision-language-action pipelines and large behavior models to [Aeo](https://aeolusbot.com/meet-aeo) (a humanoid robot mounted on a mobile base), wiring up logging, visualization, and curation workflows that make large-scale learning iterations feasible. Always happy to compare notes with anyone exploring dependable robotic behavior at scale 🤝.
+These days I'm applying vision-language-action pipelines and large behavior models to [Aeo](https://aeolusbot.com/meet-aeo) (a humanoid robot mounted on a mobile base), wiring up logging, visualization, and curation workflows that make large-scale learning iterations feasible. Always happy to compare notes with anyone exploring dependable robotic behavior at scale 🤝
